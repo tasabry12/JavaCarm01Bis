@@ -19,7 +19,7 @@ public class mainProgram {
 		
 		double distanza = distanzaTraDuePunti(p1.x, p2.x, p1.y, p2.y);
 		
-		System.out.println("Distanza tra due punti: " + distanza);
+		System.out.println("Distanza tra due punti : " + distanza);
 
 
 	}
